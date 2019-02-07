@@ -7,7 +7,7 @@ Ideally, we would use the data from the recent American Heart Association report
 for this purpose but to keep things simple, we are going to use some rough estimates from this report.
 
 
-![Alt text](Model.png?raw=true "Model")
+![Alt text](Model.png?raw=true "Model"){width="50%"}
 
 
 **Problem 1: Building Transition Matrix (Weight 6)**. 
