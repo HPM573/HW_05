@@ -38,7 +38,7 @@ after first stroke is 17%. Use this number to calculate the annual rate of recur
 
 - **Part 5**: Assume that the probability of surviving a recurrent stroke is 80%. 
 Follow the procedure in Part 3, to calculate the annual transition rates from state 
-“Post-Stroke” to “Stroke” and “Stroke Death”. 
+“Post-Stroke” to “Stroke” and “Stroke Death” (i.e. λ<sub>3</sub> and λ<sub>4</sub>). 
 
 - **Part 6**: A patient who survives a stroke stays in state “Stroke” on average 1 week. 
 Calculate the annual rate of transition from “Stroke” to “Post-Stroke” (λ<sub>5</sub>). 
