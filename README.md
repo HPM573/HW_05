@@ -33,7 +33,7 @@ Therefore, if someone moves out of “Well” due to stroke, he or she will move
 probability λ<sub>1</sub>/(λ<sub>1</sub>+λ<sub>2</sub>) and move to “Stroke Death” 
 with probability λ<sub>2</sub>/(λ<sub>1</sub>+λ<sub>2</sub>).
 
-- **Part 4**: In our population the proportion of patients with recurrent stroke in 5 years 
+- **Part 4**: In our population, the proportion of patients with recurrent stroke in 5 years 
 after first stroke is 17%. Use this number to calculate the annual rate of recurrent stroke events.  
 
 - **Part 5**: Assume that the probability of surviving a recurrent stroke is 80%. 
@@ -50,6 +50,6 @@ Find the transition rate matrix when anticoagulation is used.
 Assume that the anticoagulation reduces the rate of stroke events while in “Post-Stroke” 
 by 25% but increases the rate of non-stroke related mortality by 5%.
 
-Problem 3: Simulation (Weight 4): Use Monte Carlo to simulate 2000 patients. 
+**Problem 3: Simulation (Weight 4)**. Use Monte Carlo to simulate 2000 patients. 
 For each alternative, produce survival curves an the histograms of number of stokes, and report  
 the average survival time and the average lifetime number of stokes.  
