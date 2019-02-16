@@ -45,9 +45,11 @@ Calculate the annual rate of transition from “Stroke” to “Post-Stroke” (
 Remember we have been using year as the unit of time. 
 _Hint_: If the transition rate out of a state is λ, the expected stay time in the state is 1/λ. 
 
-**Problem 2: Transition Matrix Under Anticoagulation Use (Weight 2)**.  
+**Problem 2: Transition Matrix Under Anticoagulation Use (Weight 2)**. 
 Find the transition rate matrix when anticoagulation is used. 
-Assume that the anticoagulation reduces the rate of stroke events while in “Post-Stroke” 
+Note that only individuals in the “Post-Stroke” state require 
+treatment with anticoagulation. Assume that the anticoagulation reduces the rate of 
+stroke events while in “Post-Stroke” 
 by 25% but increases the rate of non-stroke related mortality by 5%.
 
 **Problem 3: Simulation (Weight 4)**. Use Monte Carlo to simulate 2000 patients. 
