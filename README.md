@@ -15,8 +15,8 @@ Follow the steps below to calculate the transition rate matrix when anticoagulat
 
 - **Part 1**: Find the rate of background (non-stroke associated) mortality event (λ<sub>0</sub>) based on 
 the following estimates:  
-    - The annual mortality due to all causes is 18 per 1,000 population (of age 65 and older). 
-    - The annual death rates for stroke is 36.2 per 100,000 population (of age 65 and older)    
+    - The annual mortality rate due to all causes is 18 per 1,000 population (of age 65 and older). 
+    - The annual rate of stroke-associated death is 36.2 per 100,000 population (of age 65 and older)    
     _Hint_: The non-stroke associated annual mortality rate is therefore 
     18*100 - 36.2 per 100,000 population (of age 65 and older). 
 
@@ -51,8 +51,8 @@ Find the transition rate matrix when anticoagulation is used.
 Note that only individuals in the “Post-Stroke” state require 
 treatment with anticoagulation. Assume that the anticoagulation reduces the rate of 
 stroke events while in “Post-Stroke” 
-by 25% but increases the rate of non-stroke related mortality by 5%.
+by 45% but increases the rate of non-stroke related mortality by 5%.
 
 **Problem 3: Simulation (Weight 4)**. Use Monte Carlo to simulate 2000 patients. 
-For each alternative, produce survival curves an the histograms of number of stokes, and report  
+For each alternative, produce survival curves an the histograms of number of stokes, and report 
 the average survival time and the average lifetime number of stokes.  
