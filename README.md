@@ -13,7 +13,8 @@ for this purpose but to keep things simple, we are going to use some rough estim
 **Problem 1: Building Transition Rate Matrix (Weight 6)**. 
 Follow the steps below to calculate the transition rate matrix when anticoagulation is not used. 
 
-- **Part 1**: Find the rate of background (non-stroke associated) mortality event (λ<sub>0</sub>) based on these estimates:  
+- **Part 1**: Find the rate of background (non-stroke associated) mortality event (λ<sub>0</sub>) based on 
+the following estimates:  
     - The annual mortality due to all causes is 18 per 1,000 population (of age 65 and older). 
     - The annual death rates for stroke is 36.2 per 100,000 population (of age 65 and older)    
     _Hint_: The non-stroke associated annual mortality rate is therefore 
