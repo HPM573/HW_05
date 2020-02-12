@@ -26,8 +26,8 @@ Calculate the annual rate of first stroke events for our population (rate of mov
 While data suggest that this rate changes with age, to simply our model, 
 we assume that this rate remains constant as out patients ages.
 
-- **Part 3**: Among patients who experience stoke, 90% survives (and move to “Stoke” state) 
-and 10% dies (and move to “Stroke Death”). Use these probabilities and the annual rate you calculated in Part 2, 
+- **Part 3**: Among patients who experience stoke, 75% survives (and move to “Stoke” state) 
+and 25% dies (and move to “Stroke Death”). Use these probabilities and the annual rate you calculated in Part 2, 
 to find the annual rate of transition from state “Well” to “Stroke” and to “Stroke Death”.
 _Hint_: What you estimated in Part 2 is λ<sub>1</sub>+λ<sub>2</sub> (the rate at which strokes occur). 
 Therefore, if someone moves out of “Well” due to stroke, he or she will move to “Stroke” with the 
@@ -37,7 +37,7 @@ with probability λ<sub>2</sub>/(λ<sub>1</sub>+λ<sub>2</sub>).
 - **Part 4**: In our population, the proportion of patients with recurrent stroke in 5 years 
 after first stroke is 17%. Use this number to calculate the annual rate of recurrent stroke events.  
 
-- **Part 5**: Assume that the probability of surviving a recurrent stroke is 80%. 
+- **Part 5**: Assume that the probability of surviving a recurrent stroke is 70%. 
 Follow the procedure in Part 3, to calculate the annual transition rates from state 
 “Post-Stroke” to “Stroke” and “Stroke Death” (i.e. λ<sub>3</sub> and λ<sub>4</sub>). 
 
