@@ -22,7 +22,7 @@ the following estimates:
 
 - **Part 2**: Assume that the annual rate of first-ever stroke is 15 per 1,000 population 
 (of age 65 and older). 
-Calculate the annual rate of first stroke events for our population (rate of moving from 'Well' to 'Stoke'). 
+Calculate the annual rate of first stroke events for our population. 
 While data suggest that this rate changes with age, to simply our model, 
 we assume that this rate remains constant as out patients ages.
 
