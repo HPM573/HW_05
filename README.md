@@ -15,12 +15,12 @@ Follow the steps below to calculate the transition rate matrix when anticoagulat
 
 - **Part 1**: Find the rate of background (non-stroke associated) mortality event (λ<sub>0</sub>) based on 
 the following estimates:  
-    - The annual mortality rate due to all causes is 18 per 1,000 population (of age 65 and older). 
+    - The annual mortality rate due to all causes is 41.4 per 1,000 population (of age 65 and older). 
     - The annual rate of stroke-associated death is 36.2 per 100,000 population (of age 65 and older)    
     _Hint_: The non-stroke associated annual mortality rate is therefore 
     18*100 - 36.2 per 100,000 population (of age 65 and older). 
 
-- **Part 2**: Assume that the annual rate of first-ever stroke is 41.4 per 1,000 population 
+- **Part 2**: Assume that the annual rate of first-ever stroke is 15 per 1,000 population 
 (of age 65 and older). 
 Calculate the annual rate of first stroke events for our population. 
 While data suggest that this rate changes with age, to simply our model, 
