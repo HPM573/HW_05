@@ -18,7 +18,7 @@ the following estimates:
     - The annual mortality rate due to all causes is 41.4 per 1,000 population (of age 65 and older). 
     - The annual rate of stroke-associated death is 36.2 per 100,000 population (of age 65 and older)    
     _Hint_: The non-stroke associated annual mortality rate is therefore 
-    18*100 - 36.2 per 100,000 population (of age 65 and older). 
+    41.4*100 - 36.2 per 100,000 population (of age 65 and older). 
 
 - **Part 2**: Assume that the annual rate of first-ever stroke is 15 per 1,000 population 
 (of age 65 and older). 
