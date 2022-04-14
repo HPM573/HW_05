@@ -51,7 +51,7 @@ Find the transition rate matrix when anticoagulation is used.
 Note that only individuals in the “Post-Stroke” state require 
 treatment with anticoagulation. Assume that the anticoagulation reduces the rate of 
 stroke events while in “Post-Stroke” 
-by 45% but increases the rate of non-stroke related mortality by 5%.
+by 80% but increases the rate of non-stroke related mortality by 5%.
 
 **Problem 3: Simulation (Weight 4)**. Use Monte Carlo to simulate 2000 patients. 
 For each alternative, produce survival curves an the histograms of number of stokes, and report 
