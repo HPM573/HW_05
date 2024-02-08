@@ -17,7 +17,7 @@ Follow the steps below to calculate the transition rate matrix when anticoagulat
 the following estimates:  
     - The life expectancy of an average person of age 65 is [18.4 years](https://www.cdc.gov/nchs/fastats/older-american-health.htm) and hence, the annual rate of death due to all causes for a person of age 65 is then 1/18.4 = 0.0543. 
     - The annual rate of stroke-associated death is 36.2 per 100,000 population (of age 65 and older)    
-    _Hint_: The annual probability of non-stroke associated death is (0.0543 - 36.2/100,000).
+    _Hint_: The annual probability of non-stroke associated death is (0.0543 - 36.2/100,000). So now you can use this probability to calculate λ<sub>0</sub>.
 
 - **Part 2**: Assume that the annual rate of first-ever stroke is 15 per 1,000 population 
 (of age 65 and older). 
