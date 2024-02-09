@@ -16,7 +16,7 @@ Follow the steps below to calculate the transition rate matrix when anticoagulat
 - **Part 1**: The life expectancy of an average person of age 65 is [18.4 years](https://www.cdc.gov/nchs/fastats/older-american-health.htm). Calcualte the annual rate of death due to all causes for a person of age 65.
   
 - **Part 2**: Find the rate of background (non-stroke associated) mortality event (λ<sub>0</sub>) if the annual rate of stroke-associated death is 36.2 per 100,000 population (of age 65 and older)    
-    _Hint_: What you calculated in Part 1 is λ<sub>0</sub>+λ<sub>2</sub>. In this part, you are asked to calculate λ<sub>0</sub>.
+    _Hint_: In this part, you are asked to calculate λ<sub>0</sub>, which is equal to the annual rate of all-cause mortality minus the annual rate of stroke-associated mortality.
 
 - **Part 3**: Assume that the annual rate of first-ever stroke is 15 per 1,000 population 
 (of age 65 and older). 
