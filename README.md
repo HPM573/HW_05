@@ -26,7 +26,7 @@ we assume that this rate remains constant as out patients ages.
 
 - **Part 4**: Among patients who experience stoke, 75% survives (and move to “Stoke” state) 
 and 25% dies (and move to “Stroke Death”). Use these probabilities and the annual rate you calculated in Part 2, 
-to find the annual rate of transition from state “Well” to “Stroke” and to “Stroke Death”.
+to find the annual rate of transition from state “Well” to “Stroke” and to “Stroke Death”.   
    _Hint_: What you estimated in Part 2 is λ<sub>1</sub>+λ<sub>2</sub> (the rate at which strokes occur). 
 Therefore, if someone moves out of “Well” due to stroke, he or she will move to “Stroke” with the 
 probability λ<sub>1</sub>/(λ<sub>1</sub>+λ<sub>2</sub>) and move to “Stroke Death” 
